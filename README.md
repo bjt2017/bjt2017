@@ -18,7 +18,7 @@
 
 ### Mes hobbies
 
-#### En dehors de la l'informatique mes autre hobbies:
+#### En dehors de la l'informatique mes autres hobbies:
 
 ##### La Pâtisserie 
 
