@@ -8,13 +8,13 @@
 
 ### Projets
 
-- 1. Projet réalisé en première sur Pygame pour le cours de NSI 
+- Projet réalisé en première sur Pygame pour le cours de NSI 
   https://github.com/bjt2017/Projet-pygame
 
-- 2. Démineur sur la calculatrice Numworks
+- Démineur sur la calculatrice Numworks
   https://github.com/bjt2017/DemineurNumworks
 
-- 3. Morpion avec Intelligence Artificielle
+- Morpion avec Intelligence Artificielle
   https://github.com/bjt2017/Morpion-avec-IA
 
 ### Mes loisirs
