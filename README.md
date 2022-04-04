@@ -21,19 +21,6 @@
 
 #### En dehors de l'informatique, je me passione pour la pâtisserie, la guitare, la photo et les prises de vue en drone:
 
-##### La Pâtisserie 
-
-###### Macaron              
-
-![description image](macaron.png)            
-
-###### Entremet Fraise & Framboise
-
-![description image](coeur.png)
-
-##### Dessin
-
-![description image](frog.png)
 
 
 
