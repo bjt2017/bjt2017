@@ -19,9 +19,9 @@
 
 ### Mes loisirs
 
-- En dehors de l'informatique, je me passione pour la pâtisserie, la guitare, la photo et les prises de vue en drone:
-
- https://github.com/bjt2017/Loisirs
+- En dehors de l'informatique, je me passione pour la pâtisserie, la guitare, la photo et les prises de vue par drone:
+https://github.com/bjt2017/Loisirs
+ 
 
 
 
