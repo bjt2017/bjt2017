@@ -15,6 +15,7 @@
   https://github.com/bjt2017/Projet-pygame
 
 - Un morpion avec une IA qui joue contre vous
+  https://github.com/bjt2017/Morpion-avec-IA
 
 ### Mes hobbies
 
