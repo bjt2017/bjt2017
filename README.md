@@ -23,7 +23,7 @@
 
 ##### La Pâtisserie 
 
-###### Macaron###### Entremets               
+###### Macaron              
 
 ![description image](macaron.png)            
 
