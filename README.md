@@ -14,7 +14,7 @@
 - Démineur sur la calculatrice Numworks
   https://github.com/bjt2017/DemineurNumworks
 
-- Morpion avec Intelligence Artificielle
+-Projet réalisé en terminale - Morpion avec Intelligence Artificielle
   https://github.com/bjt2017/Morpion-avec-IA
 
 ### Mes loisirs
