@@ -24,7 +24,7 @@
 ##### La Pâtisserie 
 
 ###### Macaron
-![description image](macaron.png)
+![description image](macaron.png | width=100)
 
 ###### Entremets Fraise & Framboise
 ![description image](coeur.png)
