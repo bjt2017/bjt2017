@@ -1,25 +1,25 @@
-#### Bonjour 👋
+#### Bonjour,
 
-### Presentation
+### Présentation
 
 - Je m'appelle Benjamin
 - J'ai 18 ans
-- Je suis en Terminal avec les options Maths et NSI 
+- Je suis en Terminale générale spécialités Mathématiques et NSI 
 
 ### Projets
 
-- Demineur Sur la calculatrise Numworks
-  https://github.com/bjt2017/DemineurNumworks
-
-- Projet sur Pygame pour la specialité NSI
+- 1. Projet réalisé en première sur Pygame pour le cours de NSI 
   https://github.com/bjt2017/Projet-pygame
 
-- Un morpion avec une IA qui joue contre vous
+- 2. Démineur sur la calculatrice Numworks
+  https://github.com/bjt2017/DemineurNumworks
+
+- 3. Morpion avec Intelligence Artificielle
   https://github.com/bjt2017/Morpion-avec-IA
 
-### Mes hobbies
+### Mes loisirs
 
-#### En dehors de la l'informatique mes autres hobbies:
+#### En dehors de l'informatique, je me passione pour la pâtisserie, la guitare, la photo et les prises de vue en drone:
 
 ##### La Pâtisserie 
 
@@ -27,7 +27,7 @@
 
 ![description image](macaron.png)            
 
-###### Entremets Fraise & Framboise
+###### Entremet Fraise & Framboise
 
 ![description image](coeur.png)
 
