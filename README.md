@@ -23,11 +23,12 @@
 
 ##### La Pâtisserie 
 
-###### Macaron###### Entremets                Fraise & Framboise
+###### Macaron###### Entremets               
 
-![description image](macaron.png)            ![description image](coeur.png)
+![description image](macaron.png)            
 
 ###### Entremets Fraise & Framboise
+
 ![description image](coeur.png)
 
 ##### Dessin
