@@ -4,7 +4,6 @@
 
 - Je m'appelle Benjamin
 - J'ai 18 ans
-- Je suis en Terminale générale spécialités Mathématiques et NSI 
 
 ### Projets
 
