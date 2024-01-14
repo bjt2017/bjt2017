@@ -7,7 +7,7 @@
 
 ### Projets
 
-- Projet réalisé en première année de but informatique en Windows form / .net
+- Projet réalisé en première année de BUT informatique avec Windows form / .net
   https://github.com/bjt2017/Application_culinaire
 
 - Projet réalisé en première sur Pygame pour le cours de NSI 
