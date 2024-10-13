@@ -5,6 +5,10 @@
 - Je m'appelle Benjamin
 - J'ai 20 ans
 
+### Project en développement 
+
+- Jeu 2d réalisé en c++, vitasdk et vita2d https://github.com/bjt2017/vita2dGame
+
 ### Projets 🚀
 
 - Projet réalisé en première année de BUT informatique avec Windows form / .net
