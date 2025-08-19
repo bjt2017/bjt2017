@@ -7,7 +7,7 @@
 
 ### Projet personnel en cours de développement 
 
-- Jeu 2d réalisé en c++, vitasdk et vita2d https://github.com/bjt2017/vita2dGame
+- Jeu 2d réalisé en c++ pour la PSVita, vitasdk et vita2d https://github.com/bjt2017/vita2dGame
 
 ### Projets
 
