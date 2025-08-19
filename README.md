@@ -5,11 +5,14 @@
 - Je m'appelle Benjamin
 - J'ai 21 ans
 
-### Project en développement 
+### Projet personnel en cours de développement 
 
 - Jeu 2d réalisé en c++, vitasdk et vita2d https://github.com/bjt2017/vita2dGame
 
-### Projets 🚀
+### Projets
+
+- SquizzGame – Projet académique réalisé sur un semestre : développement d’une application de quiz en ligne (web & mobile) avec plusieurs modes de jeu.
+  https://github.com/bjt2017/SquizzGame
 
 - Projet réalisé en première année de BUT informatique avec Windows form / .net
   https://github.com/bjt2017/Application_culinaire 
@@ -19,10 +22,6 @@
 
 - Démineur sur la calculatrice Numworks
   https://github.com/bjt2017/DemineurNumworks 
-
-
-
-
 
 ### Mes loisirs 🎸🍰
 
