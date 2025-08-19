@@ -17,7 +17,7 @@
 - Projet réalisé en première année de BUT informatique avec Windows form / .net
   https://github.com/bjt2017/Application_culinaire 
 
-- Projet réalisé en première sur Pygame pour le cours de NSI 
+- Premier jeu réalisé en Python avec Pygame
   https://github.com/bjt2017/Projet-pygame 
 
 - Démineur sur la calculatrice Numworks
